@@ -2,7 +2,6 @@ branches: "main"
 debug: true
 tagFormat: "${version}"
 ci: true
-dryRun: true
 branch: master
 preset: "angular"
 plugins:

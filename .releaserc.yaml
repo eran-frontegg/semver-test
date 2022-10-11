@@ -1,8 +1,8 @@
-branches: "main"
+branches:
+  - main
 debug: true
 tagFormat: "${version}"
 ci: true
-branch: master
 preset: "angular"
 plugins:
   - "@semantic-release/commit-analyzer"

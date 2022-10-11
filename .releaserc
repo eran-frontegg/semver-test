@@ -1,6 +1,6 @@
-branches:
-  - master
+branches: "main"
 debug: true
+tagFormat: "${version}"
 ci: true
 dryRun: false
 plugins:

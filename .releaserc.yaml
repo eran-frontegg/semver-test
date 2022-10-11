@@ -12,7 +12,7 @@ plugins:
   - "@semantic-release/github"
 
 verifyConditions:
-  - ""@semantic-release/git"
+  - "@semantic-release/git"
   - "@semantic-release/github"
 
 analyzeCommits:

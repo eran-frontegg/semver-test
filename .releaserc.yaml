@@ -12,8 +12,9 @@ plugins:
   - "@semantic-release/github"
 
 verifyConditions:
-  - '@semantic-release/git'
+  - ""@semantic-release/git"
   - "@semantic-release/github"
+
 analyzeCommits:
   - path: "@semantic-release/commit-analyzer"
     releaseRules:
@@ -27,6 +28,7 @@ analyzeCommits:
       release: "minor"
     - type: "breaking"
       release: "major"
+
 generateNotes:
   - path: "@semantic-release/release-notes-generator"
     writerOpts:
@@ -60,10 +62,13 @@ generateNotes:
     - type: "test"
     - hidden: true
     presetConfig: true
+
 prepare:
   - path: "@semantic-release/git"
+    assets: ["docs/CHANGELOG.md"]
   - path: "@semantic-release/changelog"
     changelogFile: "docs/CHANGELOG.md"
+
 publish:
   - path: "@semantic-release/github"
 

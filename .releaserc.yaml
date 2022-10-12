@@ -19,10 +19,6 @@ verifyConditions:
 analyzeCommits:
   - path: "@semantic-release/commit-analyzer"
     releaseRules:
-    - type: "feat"
-      release: "patch"
-    - type: "hotfix"
-      release: "patch"
     - type: "patch"
       release: "patch"
     - type: "minor"
@@ -45,7 +41,7 @@ generateNotes:
     # Tracked bug fix with a hotfix branch
     - type: "hotfix"
     - section: "Bug Fixes"
-    # Uninmportent fix (CI testing, etc)
+    # Unimportant fix (CI testing, etc)
     - type: "fix"
     - hidden: true
     - type: "chore"

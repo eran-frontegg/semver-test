@@ -74,6 +74,7 @@ prepare:
 publish:
   - path: "@semantic-release/npm"
   - path: "@semantic-release/github"
+  - path: "@semantic-release/git"
 
 success:
   - "@semantic-release/github"

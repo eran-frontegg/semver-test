@@ -1,1 +1,1 @@
-module.exports.newHello = (msg) => { console.log(`Message is: ${msg}`); };
+module.exports.newHello = (msg) => { console.log(`Message: ${msg}`); };

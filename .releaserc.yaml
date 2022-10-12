@@ -1,6 +1,5 @@
 branches:
   - main
-debug: true
 tagFormat: "${version}"
 ci: true
 preset: "angular"

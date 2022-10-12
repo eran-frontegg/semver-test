@@ -1,3 +1,11 @@
+## [2.1.2](https://github.com/eran-frontegg/semver-test/compare/2.1.1...2.1.2) (2022-10-12)
+
+
+### Bug Fixes
+
+* another fix to release ([bcfc001](https://github.com/eran-frontegg/semver-test/commit/bcfc0015a160097226fcbe6221e1fb0bb79d3ed1))
+* reorder plugins ([574854d](https://github.com/eran-frontegg/semver-test/commit/574854d86fae76d90e125a52e0e17b43b04a69d1))
+
 ## [2.0.1](https://github.com/eran-frontegg/semver-test/compare/2.0.0...2.0.1) (2022-10-11)
 
 

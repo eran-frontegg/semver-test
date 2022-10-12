@@ -8,8 +8,7 @@ on:
       - reopened
       - ready_for_review
       - converted_to_draft
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   build:
@@ -28,6 +27,6 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
 
-#  call-pre-release:
-#    needs: build
-#    uses: eran-frontegg/semver-test/.github/workflows/pre-release.yml@main
+  call-pre-release:
+    needs: build
+    uses: ./.github/workflows/pre-release.yml

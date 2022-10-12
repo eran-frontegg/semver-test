@@ -71,6 +71,7 @@ prepare:
     changelogFile: "docs/CHANGELOG.md"
 
 publish:
+  - path: "@semantic-release/npm"
   - path: "@semantic-release/github"
 
 success:

@@ -1,3 +1,17 @@
+# [2.2.0](https://github.com/eran-frontegg/semver-test/compare/2.1.2...2.2.0) (2022-10-12)
+
+
+### Bug Fixes
+
+* fix publish push trigger with semantic release ([#5](https://github.com/eran-frontegg/semver-test/issues/5)) ([b394390](https://github.com/eran-frontegg/semver-test/commit/b39439047ef78d0b22fe134257dec2db6c23a98b))
+* fix publish workflow syntax errors ([#4](https://github.com/eran-frontegg/semver-test/issues/4)) ([8884ee4](https://github.com/eran-frontegg/semver-test/commit/8884ee4e7dd478ffcc5f74fe9e63f05c79f41f25))
+
+
+### Features
+
+* add pre release ([23db7d7](https://github.com/eran-frontegg/semver-test/commit/23db7d7a40e2176c01f744ea89ab41973bbbbe5f))
+* change workflows ([dc2536d](https://github.com/eran-frontegg/semver-test/commit/dc2536dc7737bbe7d17269bc507537933893a088))
+
 ## [2.1.2](https://github.com/eran-frontegg/semver-test/compare/2.1.1...2.1.2) (2022-10-12)
 
 

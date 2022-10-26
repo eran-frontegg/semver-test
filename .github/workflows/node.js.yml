@@ -8,7 +8,9 @@ on:
       - reopened
       - ready_for_review
       - converted_to_draft
-    branches: [ main, next ]
+    branches:
+      - main
+      - next
 
 jobs:
   build:

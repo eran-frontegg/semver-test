@@ -1,3 +1,10 @@
+# [2.3.0-alpha.3](https://github.com/eran-frontegg/semver-test/compare/2.3.0-alpha.2...2.3.0-alpha.3) (2022-10-26)
+
+
+### Bug Fixes
+
+* fix branches problems ([#9](https://github.com/eran-frontegg/semver-test/issues/9)) ([f63fcc5](https://github.com/eran-frontegg/semver-test/commit/f63fcc51f0676ff536a548661f019afddc895a23))
+
 # [2.3.0-alpha.2](https://github.com/eran-frontegg/semver-test/compare/2.3.0-alpha.1...2.3.0-alpha.2) (2022-10-26)
 
 

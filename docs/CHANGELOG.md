@@ -1,3 +1,10 @@
+# [2.3.0-alpha.1](https://github.com/eran-frontegg/semver-test/compare/2.2.0...2.3.0-alpha.1) (2022-10-26)
+
+
+### Features
+
+* add support for pre-release ([0a170f8](https://github.com/eran-frontegg/semver-test/commit/0a170f84cb4cb6f6724d6919dd512ee5cb87a0bf))
+
 # [2.2.0](https://github.com/eran-frontegg/semver-test/compare/2.1.2...2.2.0) (2022-10-12)
 
 

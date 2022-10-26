@@ -1,3 +1,10 @@
+# [2.3.0-alpha.2](https://github.com/eran-frontegg/semver-test/compare/2.3.0-alpha.1...2.3.0-alpha.2) (2022-10-26)
+
+
+### Features
+
+* **index:** add original hello message ([#7](https://github.com/eran-frontegg/semver-test/issues/7)) ([3cc33ba](https://github.com/eran-frontegg/semver-test/commit/3cc33ba8be421a4f7231576fc86b378d16aaaaaf))
+
 # [2.3.0-alpha.1](https://github.com/eran-frontegg/semver-test/compare/2.2.0...2.3.0-alpha.1) (2022-10-26)
 
 
